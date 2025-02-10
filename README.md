@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="logo" src="./assets/icon.png" width="124px" style="border-radius:10px"/><br/>
-Mobile App </h1>
+Mobile App under Development</h1>
 
 > This Project is based on [Obytes starter](https://starter.obytes.com)
 
@@ -25,7 +25,7 @@ cd ./repo-name
 pnpm install
 ```
 
-To run the app on ios
+To run the app on ios (not tested)
 
 ```sh
 pnpm ios
